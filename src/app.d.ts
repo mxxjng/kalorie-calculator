@@ -8,3 +8,8 @@ declare namespace App {
 	// interface Session {}
 	// interface Stuff {}
 }
+
+type DailyValues = {
+	hours: number;
+	metFactor: number;
+}[];
