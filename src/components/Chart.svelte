@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { createEventDispatcher, onMount } from 'svelte/internal';
+	import { afterUpdate, createEventDispatcher, onMount } from 'svelte/internal';
 	import Chart from 'chart.js/auto';
 
 	const dispatch = createEventDispatcher();
@@ -18,9 +18,10 @@
 	export let oneRepMax: number[];
 	export let averageReps: number[];
 	export let name: string;
+	let myChart: any;
 
 	onMount(async () => {
-		new Chart(ctx, {
+		myChart = new Chart(ctx, {
 			type: 'line',
 			data: {
 				labels: dates,

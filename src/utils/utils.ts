@@ -167,3 +167,9 @@ export function getWorkoutByDate(data: BaseStrengthData, date: string, name: str
 
 	return grouped[date];
 }
+
+// formats european format to us format (19.08.2022 -> 08-19-2022)
+export function formatDate(date: string) {
+	let str = date.split('.');
+	return `${str[1]}-${str[0]}-${str[2]}`;
+}
