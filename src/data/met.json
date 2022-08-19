@@ -3,6 +3,10 @@
 		{
 			"name": "Football",
 			"met": 8
+		},
+		{
+			"name": "Schlafen",
+			"met": 0.95
 		}
 	]
 }

@@ -1,0 +1,1689 @@
+[
+	{
+		"Date": "24.9.2021",
+		"Set": 1,
+		"Reps/Seconds": 10,
+		"Weight": 33,
+		"Plan": "Legday Gym"
+	},
+	{
+		"Date": "24.9.2021",
+		"Set": 2,
+		"Reps/Seconds": 10,
+		"Weight": 40,
+		"Plan": "Legday Gym"
+	},
+	{
+		"Date": "24.9.2021",
+		"Set": 3,
+		"Reps/Seconds": 10,
+		"Weight": 40,
+		"Plan": "Legday Gym"
+	},
+	{
+		"Date": "24.9.2021",
+		"Set": 4,
+		"Reps/Seconds": 10,
+		"Weight": 33,
+		"Plan": "Legday Gym"
+	},
+	{
+		"Date": "27.9.2021",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 30,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "27.9.2021",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 35,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "27.9.2021",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 35,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "27.9.2021",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 35,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "27.9.2021",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 35,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "1.10.2021",
+		"Set": 1,
+		"Reps/Seconds": 10,
+		"Weight": 42,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "1.10.2021",
+		"Set": 2,
+		"Reps/Seconds": 10,
+		"Weight": 35,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "1.10.2021",
+		"Set": 3,
+		"Reps/Seconds": 10,
+		"Weight": 33,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "1.10.2021",
+		"Set": 4,
+		"Reps/Seconds": 10,
+		"Weight": 26,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "1.10.2021",
+		"Set": 5,
+		"Reps/Seconds": 10,
+		"Weight": 26,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "6.10.2021",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 35,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "6.10.2021",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 35,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "6.10.2021",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 35,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "6.10.2021",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 35,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "6.10.2021",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 35,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "6.10.2021",
+		"Set": 6,
+		"Reps/Seconds": 8,
+		"Weight": 35,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "9.10.2021",
+		"Set": 1,
+		"Reps/Seconds": 10,
+		"Weight": 40,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "9.10.2021",
+		"Set": 2,
+		"Reps/Seconds": 10,
+		"Weight": 40,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "9.10.2021",
+		"Set": 3,
+		"Reps/Seconds": 10,
+		"Weight": 33,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "9.10.2021",
+		"Set": 4,
+		"Reps/Seconds": 10,
+		"Weight": 33,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "9.10.2021",
+		"Set": 5,
+		"Reps/Seconds": 10,
+		"Weight": 33,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "22.10.2021",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 32,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "22.10.2021",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 32,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "22.10.2021",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 36,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "22.10.2021",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 41,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "22.10.2021",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 41,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "22.10.2021",
+		"Set": 6,
+		"Reps/Seconds": 8,
+		"Weight": 41,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "28.10.2021",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 41,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "28.10.2021",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 41,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "28.10.2021",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 41,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "28.10.2021",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 41,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "28.10.2021",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 41,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "28.10.2021",
+		"Set": 6,
+		"Reps/Seconds": 8,
+		"Weight": 41,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "3.11.2021",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 43,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "3.11.2021",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 43,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "3.11.2021",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 43,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "3.11.2021",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 43,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "3.11.2021",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 43,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "6.11.2021",
+		"Set": 1,
+		"Reps/Seconds": 10,
+		"Weight": 40,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "6.11.2021",
+		"Set": 2,
+		"Reps/Seconds": 10,
+		"Weight": 33,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "6.11.2021",
+		"Set": 3,
+		"Reps/Seconds": 10,
+		"Weight": 33,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "6.11.2021",
+		"Set": 4,
+		"Reps/Seconds": 10,
+		"Weight": 33,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "6.11.2021",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 33,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "10.11.2021",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "10.11.2021",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "10.11.2021",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "10.11.2021",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "10.11.2021",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "10.11.2021",
+		"Set": 6,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "24.11.2021",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "24.11.2021",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "24.11.2021",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "24.11.2021",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "24.11.2021",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "27.11.2021",
+		"Set": 1,
+		"Reps/Seconds": 10,
+		"Weight": 40,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "27.11.2021",
+		"Set": 2,
+		"Reps/Seconds": 10,
+		"Weight": 33,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "27.11.2021",
+		"Set": 3,
+		"Reps/Seconds": 10,
+		"Weight": 33,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "27.11.2021",
+		"Set": 4,
+		"Reps/Seconds": 10,
+		"Weight": 33,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "27.11.2021",
+		"Set": 5,
+		"Reps/Seconds": 10,
+		"Weight": 33,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "7.12.2021",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "7.12.2021",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "7.12.2021",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "7.12.2021",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "7.12.2021",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "10.12.2021",
+		"Set": 1,
+		"Reps/Seconds": 10,
+		"Weight": 40,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "10.12.2021",
+		"Set": 2,
+		"Reps/Seconds": 10,
+		"Weight": 40,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "10.12.2021",
+		"Set": 3,
+		"Reps/Seconds": 10,
+		"Weight": 33,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "10.12.2021",
+		"Set": 4,
+		"Reps/Seconds": 10,
+		"Weight": 33,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "10.12.2021",
+		"Set": 5,
+		"Reps/Seconds": 10,
+		"Weight": 33,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "14.12.2021",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 48,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "14.12.2021",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 48,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "14.12.2021",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 48,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "14.12.2021",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 48,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "14.12.2021",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 48,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "17.12.2021",
+		"Set": 1,
+		"Reps/Seconds": 10,
+		"Weight": 40,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "17.12.2021",
+		"Set": 2,
+		"Reps/Seconds": 10,
+		"Weight": 40,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "17.12.2021",
+		"Set": 3,
+		"Reps/Seconds": 10,
+		"Weight": 40,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "17.12.2021",
+		"Set": 4,
+		"Reps/Seconds": 10,
+		"Weight": 33,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "17.12.2021",
+		"Set": 5,
+		"Reps/Seconds": 10,
+		"Weight": 33,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "22.12.2021",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 50,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "22.12.2021",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 50,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "22.12.2021",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 48,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "22.12.2021",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 48,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "13.1.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 50,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "13.1.2022",
+		"Set": 2,
+		"Reps/Seconds": 7,
+		"Weight": 50,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "13.1.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 48,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "13.1.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 48,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "13.1.2022",
+		"Set": 5,
+		"Reps/Seconds": 7,
+		"Weight": 45,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "26.1.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 50,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "26.1.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 50,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "26.1.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 48,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "26.1.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 48,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "26.1.2022",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 48,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "1.2.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 50,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "1.2.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 50,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "1.2.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 50,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "1.2.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 50,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "1.2.2022",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 50,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "4.2.2022",
+		"Set": 1,
+		"Reps/Seconds": 10,
+		"Weight": 40,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "4.2.2022",
+		"Set": 2,
+		"Reps/Seconds": 10,
+		"Weight": 40,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "4.2.2022",
+		"Set": 3,
+		"Reps/Seconds": 10,
+		"Weight": 40,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "4.2.2022",
+		"Set": 4,
+		"Reps/Seconds": 10,
+		"Weight": 35.5,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "4.2.2022",
+		"Set": 5,
+		"Reps/Seconds": 10,
+		"Weight": 33,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "8.2.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 52,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "8.2.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 52,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "8.2.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 52,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "8.2.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 50,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "8.2.2022",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 50,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "11.2.2022",
+		"Set": 1,
+		"Reps/Seconds": 10,
+		"Weight": 40,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "11.2.2022",
+		"Set": 2,
+		"Reps/Seconds": 10,
+		"Weight": 40,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "11.2.2022",
+		"Set": 3,
+		"Reps/Seconds": 10,
+		"Weight": 40,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "11.2.2022",
+		"Set": 4,
+		"Reps/Seconds": 10,
+		"Weight": 40,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "11.2.2022",
+		"Set": 5,
+		"Reps/Seconds": 10,
+		"Weight": 40,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "16.2.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 52,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "16.2.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 52,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "16.2.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 52,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "16.2.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 52,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "16.2.2022",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 52,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "22.2.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "22.2.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "22.2.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "22.2.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "22.2.2022",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "8.3.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 57,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "8.3.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 57,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "8.3.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "8.3.2022",
+		"Set": 4,
+		"Reps/Seconds": 4,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "11.3.2022",
+		"Set": 1,
+		"Reps/Seconds": 10,
+		"Weight": 40,
+		"Plan": "Push A2"
+	},
+	{
+		"Date": "11.3.2022",
+		"Set": 2,
+		"Reps/Seconds": 10,
+		"Weight": 40,
+		"Plan": "Push A2"
+	},
+	{
+		"Date": "11.3.2022",
+		"Set": 3,
+		"Reps/Seconds": 10,
+		"Weight": 40,
+		"Plan": "Push A2"
+	},
+	{
+		"Date": "11.3.2022",
+		"Set": 4,
+		"Reps/Seconds": 10,
+		"Weight": 40,
+		"Plan": "Push A2"
+	},
+	{
+		"Date": "11.3.2022",
+		"Set": 5,
+		"Reps/Seconds": 10,
+		"Weight": 40,
+		"Plan": "Push A2"
+	},
+	{
+		"Date": "15.3.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 57,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "15.3.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 57,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "15.3.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "15.3.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "15.3.2022",
+		"Set": 5,
+		"Reps/Seconds": 6,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "22.3.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 57,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "22.3.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "22.3.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "22.3.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "22.3.2022",
+		"Set": 5,
+		"Reps/Seconds": 6,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "25.3.2022",
+		"Set": 1,
+		"Reps/Seconds": 10,
+		"Weight": 42.5,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "25.3.2022",
+		"Set": 2,
+		"Reps/Seconds": 10,
+		"Weight": 45,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "25.3.2022",
+		"Set": 3,
+		"Reps/Seconds": 10,
+		"Weight": 45,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "25.3.2022",
+		"Set": 4,
+		"Reps/Seconds": 10,
+		"Weight": 42.5,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "25.3.2022",
+		"Set": 5,
+		"Reps/Seconds": 10,
+		"Weight": 40,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "31.3.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 57,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "31.3.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 57,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "31.3.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "31.3.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "31.3.2022",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "5.4.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 57,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "5.4.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 57,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "5.4.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "5.4.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "5.4.2022",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "8.4.2022",
+		"Set": 1,
+		"Reps/Seconds": 10,
+		"Weight": 45,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "8.4.2022",
+		"Set": 2,
+		"Reps/Seconds": 10,
+		"Weight": 45,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "8.4.2022",
+		"Set": 3,
+		"Reps/Seconds": 10,
+		"Weight": 45,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "8.4.2022",
+		"Set": 4,
+		"Reps/Seconds": 10,
+		"Weight": 42.5,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "8.4.2022",
+		"Set": 5,
+		"Reps/Seconds": 10,
+		"Weight": 42.5,
+		"Plan": "Pull A2"
+	},
+	{
+		"Date": "22.4.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 57,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "22.4.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 57,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "22.4.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "22.4.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "22.4.2022",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "28.4.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 57,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "28.4.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 57,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "28.4.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "28.4.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "28.4.2022",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "3.5.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 57,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "3.5.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 57,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "3.5.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "3.5.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "3.5.2022",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "10.5.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 57,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "10.5.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 57,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "10.5.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "10.5.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "10.5.2022",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 55,
+		"Plan": "Pull A1"
+	},
+	{
+		"Date": "24.5.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 40,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "24.5.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 40,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "24.5.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 40,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "24.5.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 40,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "24.5.2022",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 40,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "27.5.2022",
+		"Set": 1,
+		"Reps/Seconds": 10,
+		"Weight": 52,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "27.5.2022",
+		"Set": 2,
+		"Reps/Seconds": 10,
+		"Weight": 52,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "27.5.2022",
+		"Set": 3,
+		"Reps/Seconds": 10,
+		"Weight": 52,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "27.5.2022",
+		"Set": 4,
+		"Reps/Seconds": 10,
+		"Weight": 52,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "27.5.2022",
+		"Set": 5,
+		"Reps/Seconds": 10,
+		"Weight": 50,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "2.6.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "2.6.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "2.6.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "2.6.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "2.6.2022",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 42.5,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "9.6.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 47,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "9.6.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 47,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "9.6.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "9.6.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "9.6.2022",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "15.6.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 49.5,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "15.6.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 47,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "15.6.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 47,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "15.6.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "15.6.2022",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "21.6.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 49.5,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "21.6.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 49.5,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "21.6.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 49.5,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "21.6.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 47,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "21.6.2022",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 47,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "24.6.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 52,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "24.6.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 52,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "24.6.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 52,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "24.6.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 52,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "24.6.2022",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 52,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "14.7.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 40,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "14.7.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "14.7.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "14.7.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "14.7.2022",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "19.7.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 47,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "19.7.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 47,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "19.7.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 47,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "19.7.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "19.7.2022",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "17.8.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 47,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "17.8.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 47,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "17.8.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 47,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "17.8.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "17.8.2022",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "19.8.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 52,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "19.8.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 52,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "19.8.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 49.5,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "19.8.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 47,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "19.8.2022",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 45,
+		"Plan": "Oberk&ouml;rper 4x10"
+	}
+]
