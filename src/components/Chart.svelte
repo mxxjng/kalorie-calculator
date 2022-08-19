@@ -1,7 +1,6 @@
 <script lang="ts">
-	import { onMount } from 'svelte/internal';
+	import { createEventDispatcher, onMount } from 'svelte/internal';
 	import Chart from 'chart.js/auto';
-	import { createEventDispatcher } from 'svelte';
 
 	const dispatch = createEventDispatcher();
 
