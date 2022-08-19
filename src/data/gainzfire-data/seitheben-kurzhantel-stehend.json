@@ -1,0 +1,268 @@
+[
+	{
+		"Date": "16.12.2020",
+		"Set": 1,
+		"Reps/Seconds": 10,
+		"Weight": 7,
+		"Plan": "Brust 1 (bei Michi)"
+	},
+	{
+		"Date": "16.12.2020",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 7,
+		"Plan": "Brust 1 (bei Michi)"
+	},
+	{
+		"Date": "16.12.2020",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 7,
+		"Plan": "Brust 1 (bei Michi)"
+	},
+	{
+		"Date": "16.12.2020",
+		"Set": 4,
+		"Reps/Seconds": 6,
+		"Weight": 7,
+		"Plan": "Brust 1 (bei Michi)"
+	},
+	{
+		"Date": "9.4.2021",
+		"Set": 1,
+		"Reps/Seconds": 10,
+		"Weight": 7,
+		"Plan": "Schulter Arme"
+	},
+	{
+		"Date": "9.4.2021",
+		"Set": 2,
+		"Reps/Seconds": 10,
+		"Weight": 7,
+		"Plan": "Schulter Arme"
+	},
+	{
+		"Date": "9.4.2021",
+		"Set": 3,
+		"Reps/Seconds": 10,
+		"Weight": 7,
+		"Plan": "Schulter Arme"
+	},
+	{
+		"Date": "9.4.2021",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 7,
+		"Plan": "Schulter Arme"
+	},
+	{
+		"Date": "16.4.2021",
+		"Set": 1,
+		"Reps/Seconds": 10,
+		"Weight": 7,
+		"Plan": "Schulter Arme"
+	},
+	{
+		"Date": "16.4.2021",
+		"Set": 2,
+		"Reps/Seconds": 10,
+		"Weight": 7,
+		"Plan": "Schulter Arme"
+	},
+	{
+		"Date": "12.5.2021",
+		"Set": 1,
+		"Reps/Seconds": 10,
+		"Weight": 7,
+		"Plan": "Brust 1"
+	},
+	{
+		"Date": "12.5.2021",
+		"Set": 2,
+		"Reps/Seconds": 10,
+		"Weight": 7,
+		"Plan": "Brust 1"
+	},
+	{
+		"Date": "19.5.2021",
+		"Set": 1,
+		"Reps/Seconds": 10,
+		"Weight": 7,
+		"Plan": "Brust 1"
+	},
+	{
+		"Date": "19.5.2021",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 7,
+		"Plan": "Brust 1"
+	},
+	{
+		"Date": "27.5.2021",
+		"Set": 1,
+		"Reps/Seconds": 10,
+		"Weight": 7,
+		"Plan": "Brust 1"
+	},
+	{
+		"Date": "27.5.2021",
+		"Set": 2,
+		"Reps/Seconds": 10,
+		"Weight": 10,
+		"Plan": "Brust 1"
+	},
+	{
+		"Date": "2.6.2021",
+		"Set": 1,
+		"Reps/Seconds": 10,
+		"Weight": 10,
+		"Plan": "Brust 1"
+	},
+	{
+		"Date": "2.6.2021",
+		"Set": 2,
+		"Reps/Seconds": 10,
+		"Weight": 10,
+		"Plan": "Brust 1"
+	},
+	{
+		"Date": "9.6.2021",
+		"Set": 1,
+		"Reps/Seconds": 10,
+		"Weight": 8,
+		"Plan": "Brust 1"
+	},
+	{
+		"Date": "17.5.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 10,
+		"Plan": "Push A1"
+	},
+	{
+		"Date": "17.5.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 10,
+		"Plan": "Push A1"
+	},
+	{
+		"Date": "17.5.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 8,
+		"Plan": "Push A1"
+	},
+	{
+		"Date": "27.5.2022",
+		"Set": 1,
+		"Reps/Seconds": 10,
+		"Weight": 10,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "27.5.2022",
+		"Set": 2,
+		"Reps/Seconds": 10,
+		"Weight": 10,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "27.5.2022",
+		"Set": 3,
+		"Reps/Seconds": 10,
+		"Weight": 8,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "27.5.2022",
+		"Set": 4,
+		"Reps/Seconds": 10,
+		"Weight": 8,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "27.5.2022",
+		"Set": 5,
+		"Reps/Seconds": 10,
+		"Weight": 8,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "24.6.2022",
+		"Set": 1,
+		"Reps/Seconds": 10,
+		"Weight": 10,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "24.6.2022",
+		"Set": 2,
+		"Reps/Seconds": 10,
+		"Weight": 10,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "24.6.2022",
+		"Set": 3,
+		"Reps/Seconds": 10,
+		"Weight": 8,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "24.6.2022",
+		"Set": 4,
+		"Reps/Seconds": 10,
+		"Weight": 8,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "24.6.2022",
+		"Set": 5,
+		"Reps/Seconds": 10,
+		"Weight": 8,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "5.8.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 10,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "19.8.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 10,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "19.8.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 10,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "19.8.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 10,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "19.8.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 8,
+		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "19.8.2022",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 8,
+		"Plan": "Oberk&ouml;rper 4x10"
+	}
+]

@@ -1,6 +1,16 @@
 <script lang="ts">
 	import { onMount } from 'svelte/internal';
 	import Chart from 'chart.js/auto';
+	import { createEventDispatcher } from 'svelte';
+
+	const dispatch = createEventDispatcher();
+
+	function setActiveIndex(index: number, name: string) {
+		dispatch('setActiveIndex', {
+			index,
+			exerciseName: name
+		});
+	}
 
 	let ctx: any;
 
@@ -8,6 +18,7 @@
 	export let averageWeights: number[];
 	export let oneRepMax: number[];
 	export let averageReps: number[];
+	export let name: string;
 
 	onMount(async () => {
 		new Chart(ctx, {
@@ -39,9 +50,13 @@
 				]
 			},
 			options: {
+				maintainAspectRatio: false,
+				onClick: (e, elements, chart) => {
+					setActiveIndex(elements[0]?.index, name);
+				},
 				scales: {
 					y: {
-						beginAtZero: true
+						beginAtZero: false
 					}
 				}
 			}
@@ -49,6 +64,6 @@
 	});
 </script>
 
-<div>
-	<canvas id="myChart" width="800" height="400" bind:this={ctx} />
+<div class="chart mb-4">
+	<canvas id="myChart" bind:this={ctx} />
 </div>

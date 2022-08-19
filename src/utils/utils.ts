@@ -1,4 +1,4 @@
-import type { JsonDataProp, PreparedStrengthData } from 'src/types/types';
+import type { BaseStrengthData, JsonDataProp, PreparedStrengthData } from 'src/types/types';
 
 /**
  * Berechnet den Grundumsatze eines Menschen anhand der Formel von Benedict & Harris
@@ -158,4 +158,12 @@ export function prepareBulkData(files: { category: string; name: string; data: J
 		preparedData.push(obj);
 	}
 	return preparedData;
+}
+
+// gets all exercise sets by date
+export function getWorkoutByDate(data: BaseStrengthData, date: string, name: string) {
+	const exercise: any = data.find((d) => d.name === name);
+	const grouped = groupBy(exercise?.data, 'Date');
+
+	return grouped[date];
 }

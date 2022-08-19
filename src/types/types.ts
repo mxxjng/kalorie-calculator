@@ -15,3 +15,15 @@ export type PreparedStrengthData = {
 	oneRepMax: number;
 	sets: any;
 }[];
+
+export type BaseStrengthData = {
+	category: string;
+	name: string;
+	data: {
+		Date: string;
+		Set: number;
+		'Reps/Seconds': number;
+		Weight: number;
+		Plan: string;
+	}[];
+}[];

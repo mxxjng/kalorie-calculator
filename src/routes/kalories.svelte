@@ -6,7 +6,7 @@
 	let name: string = 'world';
 </script>
 
-<div class="max-w-3xl mx-auto px-4">
+<div class="max-w-6xl mx-auto px-3 mb-20">
 	<h1>Hello {met.data[0].name}!</h1>
 	<Grundumsatz />
 	<MetFactor />
