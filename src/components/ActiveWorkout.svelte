@@ -1,4 +1,6 @@
 <script lang="ts">
+	import CloseIcon from './Icons/CloseIcon.svelte';
+
 	export let activeWorkout: any;
 </script>
 
@@ -11,7 +13,7 @@
 				</h2>
 				<p class="text-dark_text">{activeWorkout?.workout?.date}</p>
 			</div>
-			<p class="text-dark_headline" on:click>Close</p>
+			<CloseIcon on:click />
 		</div>
 		<h3 class="font-headline text-dark_headline text-lg md:text-xl ">Stats</h3>
 		<div class="mb-4">

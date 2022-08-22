@@ -31,6 +31,7 @@ export type BaseStrengthData = {
 export type FinalPreparedData = {
 	name: string;
 	category: string;
+	comment?: string;
 	pd: PreparedStrengthData;
 	bestOneRepMax: {
 		date: string;

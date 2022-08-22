@@ -1363,5 +1363,33 @@
 		"Reps/Seconds": 8,
 		"Weight": 61,
 		"Plan": "Oberk&ouml;rper 4x10"
+	},
+	{
+		"Date": "22.8.2022",
+		"Set": 1,
+		"Reps/Seconds": 8,
+		"Weight": 68,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "22.8.2022",
+		"Set": 2,
+		"Reps/Seconds": 8,
+		"Weight": 68,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "22.8.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 68,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "22.8.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 66,
+		"Plan": "Oberk&ouml;rper 4x8"
 	}
 ]

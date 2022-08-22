@@ -754,5 +754,47 @@
 		"Reps/Seconds": 6,
 		"Weight": 20,
 		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "22.8.2022",
+		"Set": 1,
+		"Reps/Seconds": 7,
+		"Weight": 25,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "22.8.2022",
+		"Set": 2,
+		"Reps/Seconds": 6,
+		"Weight": 25,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "22.8.2022",
+		"Set": 3,
+		"Reps/Seconds": 8,
+		"Weight": 20,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "22.8.2022",
+		"Set": 4,
+		"Reps/Seconds": 8,
+		"Weight": 20,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "22.8.2022",
+		"Set": 5,
+		"Reps/Seconds": 8,
+		"Weight": 20,
+		"Plan": "Oberk&ouml;rper 4x8"
+	},
+	{
+		"Date": "22.8.2022",
+		"Set": 6,
+		"Reps/Seconds": 3,
+		"Weight": 20,
+		"Plan": "Oberk&ouml;rper 4x8"
 	}
 ]
