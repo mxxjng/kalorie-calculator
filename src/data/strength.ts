@@ -16,6 +16,7 @@ import latzug from '../data/gainzfire-data/latzug-brust.json';
 import beinbeugen from '../data/gainzfire-data/beinbeugen-liegend.json';
 import beinstrecken from '../data/gainzfire-data/beinstrecken.json';
 import reverseFlys from '../data/gainzfire-data/reverse-flys-maschine.json';
+import rudernMaschine from '../data/gainzfire-data/rudern-maschine.json';
 
 export const strengthData = [
 	{ category: 'Brust', name: 'Kurzhantel Bankdrücken', data: kurzhantelBankdruecken },
@@ -26,6 +27,12 @@ export const strengthData = [
 		data: schraegbankdrueckenKurzhantel
 	},
 	{ category: 'Rücken', name: 'Rudern mit Kurzhantel', data: rudernKurzhantel },
+	{
+		category: 'Rücken',
+		name: 'Rudern Maschine oben',
+		data: rudernMaschine,
+		comment: 'Maschine oben mit engem Griff Daumen zeigen nach oben.'
+	},
 	{ category: 'Schulter', name: 'Seitheben Maschine', data: seithebenMaschiene },
 	{
 		category: 'Trizeps',

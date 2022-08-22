@@ -12,7 +12,7 @@
 	<p class="text-dark_text mb-3">{date}</p>
 	<div class="block md:flex">
 		{#each data as d}
-			<div class="bg-dark_bg p-2 rounded-md mr-0 md:mr-4 mb-2">
+			<div class="bg-dark_bg_highlight p-2 rounded-md mr-0 md:mr-4 mb-2">
 				<p class="text-dark_headline hidden md:block">Set: {d.Set}</p>
 				<p class="text-dark_text">
 					KG <span class="font-headline text-dark_headline">{d.Weight}</span> | WDH:

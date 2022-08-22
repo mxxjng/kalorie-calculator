@@ -27,3 +27,25 @@ export type BaseStrengthData = {
 		Plan: string;
 	}[];
 }[];
+
+export type FinalPreparedData = {
+	name: string;
+	category: string;
+	comment?: string;
+	pd: PreparedStrengthData;
+	bestOneRepMax: {
+		date: string;
+		value: any;
+		sets: any;
+	};
+	bestVolume: {
+		date: string;
+		value: any;
+		sets: any;
+	};
+	bestWeight: {
+		date: string;
+		value: any;
+		sets: any;
+	};
+};

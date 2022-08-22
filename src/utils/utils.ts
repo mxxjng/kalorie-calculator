@@ -1,4 +1,9 @@
-import type { BaseStrengthData, JsonDataProp, PreparedStrengthData } from 'src/types/types';
+import type {
+	BaseStrengthData,
+	FinalPreparedData,
+	JsonDataProp,
+	PreparedStrengthData
+} from 'src/types/types';
 
 /**
  * Berechnet den Grundumsatze eines Menschen anhand der Formel von Benedict & Harris
@@ -140,7 +145,9 @@ export function getBestWorkoutByCategory(
  * @param rawJsonFiles
  * @returns
  */
-export function prepareBulkData(files: { category: string; name: string; data: JsonDataProp[] }[]) {
+export function prepareBulkData(
+	files: { comment?: string; category: string; name: string; data: JsonDataProp[] }[]
+) {
 	const preparedData = [];
 
 	for (const file of files) {
@@ -149,6 +156,7 @@ export function prepareBulkData(files: { category: string; name: string; data: J
 		let obj = {
 			name: file.name,
 			category: file.category,
+			comment: file?.comment || '',
 			pd: data,
 			bestOneRepMax: getBestWorkoutByCategory(file.data, data, 'oneRepMax'),
 			bestVolume: getBestWorkoutByCategory(file.data, data, 'exerciseVolume'),
@@ -166,4 +174,37 @@ export function getWorkoutByDate(data: BaseStrengthData, date: string, name: str
 	const grouped = groupBy(exercise?.data, 'Date');
 
 	return grouped[date];
+}
+
+// formats european format to us format (19.08.2022 -> 08-19-2022)
+export function formatDate(date: string) {
+	let str = date.split('.');
+	return `${str[1]}-${str[0]}-${str[2]}`;
+}
+
+/**
+ * filters exercise data by searchterm and category
+ * @param data
+ * @param category
+ * @param searchTerm
+ * @returns
+ */
+export function filterExercises(data: FinalPreparedData[], category: string, searchTerm: string) {
+	let d = [...data];
+
+	if (category === '' && searchTerm !== '') {
+		return d.filter((d) => d.name.toLowerCase().includes(searchTerm.toLowerCase()));
+	}
+
+	if (category !== '' && searchTerm === '') {
+		return d.filter((d) => d.category === category);
+	}
+
+	if (category !== '' && searchTerm !== '') {
+		return d
+			.filter((d) => d.name.toLowerCase().includes(searchTerm.toLowerCase()))
+			.filter((d) => d.category === category);
+	}
+
+	return d;
 }
