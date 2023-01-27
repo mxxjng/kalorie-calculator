@@ -24,3 +24,15 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+## How to update training data
+
+1. login to gainzfire go to the "statistik" page
+
+2. select exercise maximum date range and export to csv
+
+3. send csv file to pc via whatsapp
+
+4. convert csv to json https://csvjson.com/csv2json
+
+5. paste json in datafolder in this repo
