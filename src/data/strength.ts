@@ -17,6 +17,7 @@ import beinbeugen from '../data/gainzfire-data/beinbeugen-liegend.json';
 import beinstrecken from '../data/gainzfire-data/beinstrecken.json';
 import reverseFlys from '../data/gainzfire-data/reverse-flys-maschine.json';
 import rudernMaschine from '../data/gainzfire-data/rudern-maschine.json';
+import beinPresse from '../data/gainzfire-data/beinpresse.json';
 
 export const strengthData = [
 	{ category: 'Brust', name: 'Kurzhantel Bankdrücken', data: kurzhantelBankdruecken },
@@ -93,6 +94,11 @@ export const strengthData = [
 		category: 'Beine',
 		name: 'Beinstrecken',
 		data: beinstrecken
+	},
+	{
+		category: 'Beine',
+		name: 'Beinpresse',
+		data: beinPresse
 	},
 	{
 		category: 'Schulter',
